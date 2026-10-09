@@ -1,19 +1,17 @@
-version: 0.9.1
+version: 0.9.2
 files:
-  - url: lyrin-Ver.0.9.1-setup.exe
-    sha512: W8l+Ok6v25SXIHcTfj7+0EsvVHeqnmvOLD5P4Z0hc1E1Z8TcseKpn8Xa1XOXrRDnEQ0yoYggvWO2WaxmlsT7Rg==
-path: lyrin-Ver.0.9.1-setup.exe
-sha512: W8l+Ok6v25SXIHcTfj7+0EsvVHeqnmvOLD5P4Z0hc1E1Z8TcseKpn8Xa1XOXrRDnEQ0yoYggvWO2WaxmlsT7Rg==
-releaseName: Ver.0.9.1
-releaseNotes: |-
-  1.调整了部分ui位置
-  2.调整了按钮颜色
+  - url: lyrin-Ver.0.9.2-setup.exe
+    sha512: jYOXiJd7m7PG4Ngt7jPPzTYMuTVyis4MWL5gjgRsLU8pX/asSraGiSduAr+goU4W9C2J3Pis6hA7IwonRTO5ww==
+path: lyrin-Ver.0.9.2-setup.exe
+sha512: jYOXiJd7m7PG4Ngt7jPPzTYMuTVyis4MWL5gjgRsLU8pX/asSraGiSduAr+goU4W9C2J3Pis6hA7IwonRTO5ww==
+releaseName: Ver.0.9.2
+releaseNotes: 1.调整了部分ui和文字
 packages:
   x64:
-    size: 178800700
-    sha512: cu6laO3CWsttmppz6CIgk4KoDSP9R6u8figX71ZgSen42n4Y/eGQb9xQnrJwfP5NhyTJertNW7nN0erRawm0DA==
-    blockMapSize: 187068
-    path: lyrin-0.9.1-x64.nsis.7z
-    file: lyrin-0.9.1-x64.nsis.7z
-releaseDate: '2026-10-09T07:33:12.659Z'
+    size: 178800931
+    sha512: AtWTa5KV8QdH33aQFwqw2+B6MykYT9iVn93r7A/YcD+gsUzNmCWxX1oztUKIKeLeKfBlM4eJqCoZrb/g2w/sMQ==
+    blockMapSize: 186921
+    path: lyrin-0.9.2-x64.nsis.7z
+    file: lyrin-0.9.2-x64.nsis.7z
+releaseDate: '2026-10-09T15:50:08.752Z'
 lyrinMajorUpdate: true
