@@ -1,19 +1,17 @@
-version: 0.7.5
+version: 0.7.6
 files:
-  - url: lyrin-Ver.0.7.2.3-setup.exe
-    sha512: OjZLm3LiR4wiEmStOnrqFUx5kCPc7+a/685zJdpaut7QgUT4eKZW3KsKuKu7oRgPQOzhfFAR7OvQznWIIqIEew==
-path: lyrin-Ver.0.7.2.3-setup.exe
-sha512: OjZLm3LiR4wiEmStOnrqFUx5kCPc7+a/685zJdpaut7QgUT4eKZW3KsKuKu7oRgPQOzhfFAR7OvQznWIIqIEew==
-releaseName: Ver.0.7.2.3
-releaseNotes: |-
-  1.更新了部分ui
-  2.提供了语音软件的状态
+  - url: lyrin-Ver.0.7.2.4-setup.exe
+    sha512: Mqe8DrduuhVkpIYH/3+pqxL+6ZMaEtqvKOaM95Mb/R4sUkzWC9pYZwd+l8FThigU9v/SZaUinHz6ZhGO60dykQ==
+path: lyrin-Ver.0.7.2.4-setup.exe
+sha512: Mqe8DrduuhVkpIYH/3+pqxL+6ZMaEtqvKOaM95Mb/R4sUkzWC9pYZwd+l8FThigU9v/SZaUinHz6ZhGO60dykQ==
+releaseName: Ver.0.7.2.4
+releaseNotes: 修复了桌面歌词效果
 packages:
   x64:
-    size: 178745007
-    sha512: YSkuNjzVffXer/IYVbyy6CWZ/BQdjGIMzpxVXl1GmKMURjn1QTJ0xh/dxhfWo3kI+QXn47JiehoxBtpSrb8B6g==
-    blockMapSize: 186717
-    path: lyrin-0.7.2.3-x64.nsis.7z
-    file: lyrin-0.7.2.3-x64.nsis.7z
-releaseDate: '2026-10-09T03:43:38.803Z'
+    size: 178745243
+    sha512: v70hPTuwSZsNhdQktrJjlSUf/KiBBQwSPmPH7Bt0yTNdLzZla2npzNXvS7sfOtRTiiJ44Wk9Yxh23BXYYrUmZA==
+    blockMapSize: 186775
+    path: lyrin-0.7.2.4-x64.nsis.7z
+    file: lyrin-0.7.2.4-x64.nsis.7z
+releaseDate: '2026-10-09T04:44:01.259Z'
 lyrinMajorUpdate: true
