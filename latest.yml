@@ -1,8 +1,14 @@
 version: 0.7.2
 files:
-  - url: lyrin-Ver.0.7.2-offline-setup.exe
-    sha512: gp4LaHqugZnHceHO4NmS3IWviVmKfJSr/KvpufJlwopT1YPcDezE8GjJOJqlEYA9EbdbzXFpAdv00Z0W06ZsUg==
-    size: 178898567
-path: lyrin-Ver.0.7.2-offline-setup.exe
-sha512: gp4LaHqugZnHceHO4NmS3IWviVmKfJSr/KvpufJlwopT1YPcDezE8GjJOJqlEYA9EbdbzXFpAdv00Z0W06ZsUg==
+  - url: lyrin-Ver.0.7.2-setup.exe
+    sha512: oGntlh27cctJ5k8hAR1w1MLxpnQ/+4mb6nW+HLOKNEDuhfzosYQyffCDE5NGQL5ZcC49kgumBzpXSClnX5Faog==
+path: lyrin-Ver.0.7.2-setup.exe
+sha512: oGntlh27cctJ5k8hAR1w1MLxpnQ/+4mb6nW+HLOKNEDuhfzosYQyffCDE5NGQL5ZcC49kgumBzpXSClnX5Faog==
+packages:
+  x64:
+    size: 178392407
+    sha512: JlLNvf4w36Okk6UgxH4bFj5y6Ub9QE/gKA0+pkQjtY2EXYmrSmKCRecYGEQlhEVVAIIbYWIAHj+B+ZxP0jWcOA==
+    blockMapSize: 186408
+    path: lyrin-0.7.2-x64.nsis.7z
+    file: lyrin-0.7.2-x64.nsis.7z
 releaseDate: '2026-10-09T00:05:04.013Z'
