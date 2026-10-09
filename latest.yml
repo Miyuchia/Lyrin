@@ -1,17 +1,20 @@
-version: 0.7.6
+version: 0.7.7
 files:
-  - url: lyrin-Ver.0.7.2.4-setup.exe
-    sha512: Mqe8DrduuhVkpIYH/3+pqxL+6ZMaEtqvKOaM95Mb/R4sUkzWC9pYZwd+l8FThigU9v/SZaUinHz6ZhGO60dykQ==
-path: lyrin-Ver.0.7.2.4-setup.exe
-sha512: Mqe8DrduuhVkpIYH/3+pqxL+6ZMaEtqvKOaM95Mb/R4sUkzWC9pYZwd+l8FThigU9v/SZaUinHz6ZhGO60dykQ==
-releaseName: Ver.0.7.2.4
-releaseNotes: 修复了桌面歌词效果
+  - url: lyrin-Ver.0.7.2.5-setup.exe
+    sha512: qLWV8TMhMiQ7bkCfZHthiyniAatHQuqEtNLIJ9Xs81Xe0o6Y+kxRF5c4jO8J92PhQqccRyKFv1K5mPhrWUCgng==
+path: lyrin-Ver.0.7.2.5-setup.exe
+sha512: qLWV8TMhMiQ7bkCfZHthiyniAatHQuqEtNLIJ9Xs81Xe0o6Y+kxRF5c4jO8J92PhQqccRyKFv1K5mPhrWUCgng==
+releaseName: Ver.0.7.2.5
+releaseNotes: |-
+  1.修复了程序略缩图
+  2.修复了歌词特殊字体的问题
+  3.添加了歌单收藏和创建按钮
 packages:
   x64:
-    size: 178745243
-    sha512: v70hPTuwSZsNhdQktrJjlSUf/KiBBQwSPmPH7Bt0yTNdLzZla2npzNXvS7sfOtRTiiJ44Wk9Yxh23BXYYrUmZA==
-    blockMapSize: 186775
-    path: lyrin-0.7.2.4-x64.nsis.7z
-    file: lyrin-0.7.2.4-x64.nsis.7z
-releaseDate: '2026-10-09T04:44:01.259Z'
+    size: 178798884
+    sha512: f7Zs3+4qMsID9lgYfIpOe7LJuqMe3uePQYSfbhoz7D/wmKw1NUCVSPJkRvQn1xnhFTLPjCw3cd1vA9aUSr5VtA==
+    blockMapSize: 187165
+    path: lyrin-0.7.2.5-x64.nsis.7z
+    file: lyrin-0.7.2.5-x64.nsis.7z
+releaseDate: '2026-10-09T05:54:19.164Z'
 lyrinMajorUpdate: true
