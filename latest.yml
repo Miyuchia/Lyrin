@@ -1,14 +1,17 @@
-version: 0.7.2
+version: 0.7.3
 files:
-  - url: lyrin-Ver.0.7.2-setup.exe
-    sha512: oGntlh27cctJ5k8hAR1w1MLxpnQ/+4mb6nW+HLOKNEDuhfzosYQyffCDE5NGQL5ZcC49kgumBzpXSClnX5Faog==
-path: lyrin-Ver.0.7.2-setup.exe
-sha512: oGntlh27cctJ5k8hAR1w1MLxpnQ/+4mb6nW+HLOKNEDuhfzosYQyffCDE5NGQL5ZcC49kgumBzpXSClnX5Faog==
+  - url: lyrin-Ver.0.7.2.1-setup.exe
+    sha512: /R03MHszRxQAfSeK1JcYhXskHWxohxqeHp4oR/npd0W6/p0zY8u21T03qz9gTS2QfNs5yysbgb1KLBZmGDPzSA==
+path: lyrin-Ver.0.7.2.1-setup.exe
+sha512: /R03MHszRxQAfSeK1JcYhXskHWxohxqeHp4oR/npd0W6/p0zY8u21T03qz9gTS2QfNs5yysbgb1KLBZmGDPzSA==
+releaseName: Ver.0.7.2.1
+releaseNotes: 更新了一些ui和文字
 packages:
   x64:
-    size: 178392407
-    sha512: JlLNvf4w36Okk6UgxH4bFj5y6Ub9QE/gKA0+pkQjtY2EXYmrSmKCRecYGEQlhEVVAIIbYWIAHj+B+ZxP0jWcOA==
-    blockMapSize: 186408
-    path: lyrin-0.7.2-x64.nsis.7z
-    file: lyrin-0.7.2-x64.nsis.7z
-releaseDate: '2026-10-09T00:05:04.013Z'
+    size: 178398373
+    sha512: 9vPi9WLleFuiN6zTJSZEfkGg6MbRqz1D3EoVyOWcL/LOxYW0XEg6qmFUNjEjjiwSxYtuca4eLuGhM/3O2Qy+ng==
+    blockMapSize: 186102
+    path: lyrin-0.7.2.1-x64.nsis.7z
+    file: lyrin-0.7.2.1-x64.nsis.7z
+releaseDate: '2026-10-09T01:40:36.938Z'
+lyrinMajorUpdate: false
