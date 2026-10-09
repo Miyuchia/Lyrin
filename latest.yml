@@ -1,17 +1,19 @@
-version: 0.7.3
+version: 0.7.4
 files:
-  - url: lyrin-Ver.0.7.2.1-setup.exe
-    sha512: /R03MHszRxQAfSeK1JcYhXskHWxohxqeHp4oR/npd0W6/p0zY8u21T03qz9gTS2QfNs5yysbgb1KLBZmGDPzSA==
-path: lyrin-Ver.0.7.2.1-setup.exe
-sha512: /R03MHszRxQAfSeK1JcYhXskHWxohxqeHp4oR/npd0W6/p0zY8u21T03qz9gTS2QfNs5yysbgb1KLBZmGDPzSA==
-releaseName: Ver.0.7.2.1
-releaseNotes: 更新了一些ui和文字
+  - url: lyrin-Ver.0.7.2.2-setup.exe
+    sha512: FN6+ehB+kZNbyukeYQHLDS3CpLlq3uBDUgFN/DPN0lu3djKwwsXAo7z2awr3fYZs+u/+tkuGFBm/jS0m88B7lg==
+path: lyrin-Ver.0.7.2.2-setup.exe
+sha512: FN6+ehB+kZNbyukeYQHLDS3CpLlq3uBDUgFN/DPN0lu3djKwwsXAo7z2awr3fYZs+u/+tkuGFBm/jS0m88B7lg==
+releaseName: Ver.0.7.2.2
+releaseNotes: |-
+  1.更新了部分ui
+  2.修复了留言图标显示问题
 packages:
   x64:
-    size: 178398373
-    sha512: 9vPi9WLleFuiN6zTJSZEfkGg6MbRqz1D3EoVyOWcL/LOxYW0XEg6qmFUNjEjjiwSxYtuca4eLuGhM/3O2Qy+ng==
-    blockMapSize: 186102
-    path: lyrin-0.7.2.1-x64.nsis.7z
-    file: lyrin-0.7.2.1-x64.nsis.7z
-releaseDate: '2026-10-09T01:40:36.938Z'
+    size: 178398268
+    sha512: 1RQnPVUAG+oZcFjsAJRu0Xgs1L9QzZAtY5wZxVmOkxmseZ8ptlTh/EDgOOuVZFG5xw4wPo50Qyh45IWQIH/0Sg==
+    blockMapSize: 186032
+    path: lyrin-0.7.2.2-x64.nsis.7z
+    file: lyrin-0.7.2.2-x64.nsis.7z
+releaseDate: '2026-10-09T02:26:57.904Z'
 lyrinMajorUpdate: false
