@@ -1,17 +1,19 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: lyrin-Ver.1.0.0-setup.exe
-    sha512: mld6ad+ifQNcOQsijoDm6kUfMMYFzamMzKt7quPGAooRTgYSukZFEQz3kJ4R/tPd/BIDp7P/y+MAiBrHIC9H+Q==
-path: lyrin-Ver.1.0.0-setup.exe
-sha512: mld6ad+ifQNcOQsijoDm6kUfMMYFzamMzKt7quPGAooRTgYSukZFEQz3kJ4R/tPd/BIDp7P/y+MAiBrHIC9H+Q==
-releaseName: Ver.1.0.0
-releaseNotes: 正式版发布
+  - url: lyrin-Ver.1.0.1-setup.exe
+    sha512: C0GAJAkjcf7WytXWekTBCC3U79oF35S+RC7VYjavAv0eB8db+IbNp/CyffA4rl5PkT068DIY0JJF8Sbzar0dwQ==
+path: lyrin-Ver.1.0.1-setup.exe
+sha512: C0GAJAkjcf7WytXWekTBCC3U79oF35S+RC7VYjavAv0eB8db+IbNp/CyffA4rl5PkT068DIY0JJF8Sbzar0dwQ==
+releaseName: Ver.1.0.1
+releaseNotes: |-
+  1.现在蓝牙断开时不会继续播放
+  2.修复了qq音乐音质选择的问题
 packages:
   x64:
-    size: 177970292
-    sha512: lXXQ/jSdH0OSkaBzRYL2TBwgVVFJCrbcrnVFiWVbKP4t+ZZaMdaFFwNSE5rsGYqRrYUKxOlABATigK/kizxvmg==
-    blockMapSize: 185902
-    path: lyrin-1.0.0-x64.nsis.7z
-    file: lyrin-1.0.0-x64.nsis.7z
-releaseDate: '2026-10-10T02:04:43.873Z'
+    size: 177997279
+    sha512: KDrtZtIG8B5cht6w861WPrZEh5s05+1ftxwX7uUEGl0LOQ9tCd329gV93VPqggS/jqv+A8fqUSca2xNqddDTCg==
+    blockMapSize: 185251
+    path: lyrin-1.0.1-x64.nsis.7z
+    file: lyrin-1.0.1-x64.nsis.7z
+releaseDate: '2026-10-10T04:55:50.982Z'
 lyrinMajorUpdate: true
