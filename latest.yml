@@ -1,17 +1,17 @@
-version: 1.0.2
+version: 1.0.3
 files:
-  - url: lyrin-Ver.1.0.2-setup.exe
-    sha512: iVTC2RbtSn3lOlDlDcp6yxaKcYvrh4SGJGRwyHTkrqb6JVcSLPUUtqOzdHg8i9Cg4XZDjhlrTJhrQKt1ox7HkA==
-path: lyrin-Ver.1.0.2-setup.exe
-sha512: iVTC2RbtSn3lOlDlDcp6yxaKcYvrh4SGJGRwyHTkrqb6JVcSLPUUtqOzdHg8i9Cg4XZDjhlrTJhrQKt1ox7HkA==
-releaseName: Ver.1.0.2
-releaseNotes: 修复了略缩图问题及应用状态
+  - url: lyrin-Ver.1.0.3-setup.exe
+    sha512: h0m1Iaawzg2tR+1U5M5RKFzjYQLcWhViPkrEVEHw5eHxYOUHVvlTxZNPCjltAPtXExOgH009epxY5xqCUmNyCg==
+path: lyrin-Ver.1.0.3-setup.exe
+sha512: h0m1Iaawzg2tR+1U5M5RKFzjYQLcWhViPkrEVEHw5eHxYOUHVvlTxZNPCjltAPtXExOgH009epxY5xqCUmNyCg==
+releaseName: Ver.1.0.3
+releaseNotes: 修复了略缩图白边及桌面歌词出现在任务栏预览的问题
 packages:
   x64:
-    size: 177996296
-    sha512: dJCUJiFpCZuIqbVDzrSsaWDRvmCyA5Y6HAGF6gjXQoGjvqU8eGsrRRIoJxK+9F1MNVdF0vSDEEP1MYuiT4/caw==
-    blockMapSize: 184253
-    path: lyrin-1.0.2-x64.nsis.7z
-    file: lyrin-1.0.2-x64.nsis.7z
-releaseDate: '2026-10-11T05:24:24.453Z'
+    size: 177997174
+    sha512: DWm6ps1Av8ibWVEjOPnWaMFwpsV2xdmqwihAgxGsA6u1JSLiNE3JNG2vL/MBiU8YjdkenPtzSRlHXP2lXG8Pjw==
+    blockMapSize: 185128
+    path: lyrin-1.0.3-x64.nsis.7z
+    file: lyrin-1.0.3-x64.nsis.7z
+releaseDate: '2026-10-13T02:17:43.690Z'
 lyrinMajorUpdate: true
