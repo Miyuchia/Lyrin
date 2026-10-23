@@ -1,17 +1,17 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: lyrin-Ver.1.0.3-setup.exe
-    sha512: h0m1Iaawzg2tR+1U5M5RKFzjYQLcWhViPkrEVEHw5eHxYOUHVvlTxZNPCjltAPtXExOgH009epxY5xqCUmNyCg==
-path: lyrin-Ver.1.0.3-setup.exe
-sha512: h0m1Iaawzg2tR+1U5M5RKFzjYQLcWhViPkrEVEHw5eHxYOUHVvlTxZNPCjltAPtXExOgH009epxY5xqCUmNyCg==
-releaseName: Ver.1.0.3
-releaseNotes: 修复了略缩图白边及桌面歌词出现在任务栏预览的问题
+  - url: lyrin-Ver.1.0.4-setup.exe
+    sha512: yQju4d2fUZLY+Neuqz6cQY5QADLFk9c5Pgh2e0lpL50FnNEcp9UMm5HTzCv49GhHASp58PE7U8nctG+E+Fjpgw==
+path: lyrin-Ver.1.0.4-setup.exe
+sha512: yQju4d2fUZLY+Neuqz6cQY5QADLFk9c5Pgh2e0lpL50FnNEcp9UMm5HTzCv49GhHASp58PE7U8nctG+E+Fjpgw==
+releaseName: Ver.1.0.4
+releaseNotes: 新增网易云一起听聊天、好友邀请卡片和共同喜欢标记
 packages:
   x64:
-    size: 177997174
-    sha512: DWm6ps1Av8ibWVEjOPnWaMFwpsV2xdmqwihAgxGsA6u1JSLiNE3JNG2vL/MBiU8YjdkenPtzSRlHXP2lXG8Pjw==
-    blockMapSize: 185128
-    path: lyrin-1.0.3-x64.nsis.7z
-    file: lyrin-1.0.3-x64.nsis.7z
-releaseDate: '2026-10-13T02:17:43.690Z'
+    size: 178003070
+    sha512: bqn9ZMjw4sueQ1rl/q9fAci21ANXCUYGEnvktu6MUTkyVh2WFZK0iu56NOIgXxGGnR1sHOxmXWRx1F6aw/IMxQ==
+    blockMapSize: 185134
+    path: lyrin-1.0.4-x64.nsis.7z
+    file: lyrin-1.0.4-x64.nsis.7z
+releaseDate: '2026-10-23T00:54:53.907Z'
 lyrinMajorUpdate: true
