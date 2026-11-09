@@ -1,17 +1,17 @@
-version: 1.0.4
+version: 1.1.0
 files:
-  - url: lyrin-Ver.1.0.4-setup.exe
-    sha512: yQju4d2fUZLY+Neuqz6cQY5QADLFk9c5Pgh2e0lpL50FnNEcp9UMm5HTzCv49GhHASp58PE7U8nctG+E+Fjpgw==
-path: lyrin-Ver.1.0.4-setup.exe
-sha512: yQju4d2fUZLY+Neuqz6cQY5QADLFk9c5Pgh2e0lpL50FnNEcp9UMm5HTzCv49GhHASp58PE7U8nctG+E+Fjpgw==
-releaseName: Ver.1.0.4
-releaseNotes: 新增网易云一起听聊天、好友邀请卡片和共同喜欢标记
+  - url: lyrin-Ver.1.1.0-setup.exe
+    sha512: lB8guAnv3FzFPNXcfmSXFjgQJXwp4VFakjQo/++v2JUy+OACnVJbFwyDZHAAYK6gcw3G8m1u8ENZHWKyEX4d6Q==
+path: lyrin-Ver.1.1.0-setup.exe
+sha512: lB8guAnv3FzFPNXcfmSXFjgQJXwp4VFakjQo/++v2JUy+OACnVJbFwyDZHAAYK6gcw3G8m1u8ENZHWKyEX4d6Q==
+releaseName: Ver.1.1.0
+releaseNotes: 修复了部分歌曲播放失败的问题，修复了一起听部分问题
 packages:
   x64:
-    size: 178003070
-    sha512: bqn9ZMjw4sueQ1rl/q9fAci21ANXCUYGEnvktu6MUTkyVh2WFZK0iu56NOIgXxGGnR1sHOxmXWRx1F6aw/IMxQ==
-    blockMapSize: 185134
-    path: lyrin-1.0.4-x64.nsis.7z
-    file: lyrin-1.0.4-x64.nsis.7z
-releaseDate: '2026-10-23T00:54:53.907Z'
+    size: 178023347
+    sha512: tKzRZrRzm3fEjbc7VtlByb43N1cdQoXoVfHaTuDyHnVzgy8oMGDgIg/lCffHrlIElV3KsMRUGQ47Tn4POIxRTg==
+    blockMapSize: 184985
+    path: lyrin-1.1.0-x64.nsis.7z
+    file: lyrin-1.1.0-x64.nsis.7z
+releaseDate: '2026-11-09T12:13:10.349Z'
 lyrinMajorUpdate: true
